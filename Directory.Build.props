@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <UseArtifactsLayout>true</UseArtifactsLayout>
+        <ArtifactsPath>$(MSBuildThisFileDirectory)out</ArtifactsPath>
+    </PropertyGroup>
+</Project>
